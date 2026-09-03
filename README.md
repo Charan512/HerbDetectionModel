@@ -42,7 +42,7 @@ A web-based herb identification system using Deep Learning (EfficientNetV2B3 + P
 If you prefer to install manually:
 
 ```bash
-cd /Users/deepakthota/HerbIdentificationModel
+cd /Users/<USER_NAME>/HerbIdentificationModel
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
