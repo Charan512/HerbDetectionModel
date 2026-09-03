@@ -24,7 +24,7 @@ A web-based herb identification system using Deep Learning (EfficientNetV2B3 + P
 
 1. **Navigate to the repository**:
    ```bash
-   cd /Users/deepakthota/HerbIdentificationModel
+   cd /Users/<USER_NAME>/HerbIdentificationModel
    ```
 
 2. **Run the setup script**:
